@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Omnicuris</string>
+    <string name="submit">Submit</string>
+    <string name="resultTitle">Result</string>
+    <string name="yourAnswer">Your answer</string>
+    <string name="correctAnswer">Correct answer</string>
+    <string name="totalScore">Total score</string>
+    <string name="selectanswer">please select an answer</string>
+    <string name="result">your result is here</string>
+
+</resources>
